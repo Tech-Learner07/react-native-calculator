@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~42.0.1",
+    "expo": "~47.0.0",
     "expo-font": "~9.2.1",
     "expo-status-bar": "~1.2.0",
     "react": "16.13.1",
